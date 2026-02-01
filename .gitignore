@@ -1,0 +1,22 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# Environment Variables (CRITICAL: Do not commit keys)
+.env
+
+# Logs
+logs/
+*.log
+
+# IDE settings
+.vscode/
+.idea/
+.DS_Store
+
+# Jupyter Notebook files
+.ipynb_checkpoints  
+*.ipynb

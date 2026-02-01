@@ -1,0 +1,5 @@
+finnhub-python
+python-dotenv
+google-genai
+pydantic
+tavily-python
