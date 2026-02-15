@@ -1,10 +1,9 @@
 # IPO Automation Bot 🚀
 
 An intelligent automation system designed to monitor daily IPO listings via the Finnhub API. It filters for high-value opportunities (Offer Amount > Threshold), performs automated due diligence using AI (Gemini + Tavily), and dispatches rich HTML email alerts.
-[▶ Watch Demo Video](https://drive.google.com/your-link)
-## 🎥 Demo
 
-[▶ Watch Demo Video](https://drive.google.com/your-link](https://drive.google.com/file/d/15_uZDHHlOfrxBUed8jGN4qfp3HfTUpUb/view?usp=sharing)
+## 🎥 Demo
+[▶ Watch Demo Video](https://drive.google.com/file/d/15_uZDHHlOfrxBUed8jGN4qfp3HfTUpUb/view?usp=sharing)
 
 ## 🏗 Architecture
 This project uses a modular **ETL (Extract-Transform-Load)** design pattern, optimized for maintainability and Azure Functions deployment.
